@@ -1,0 +1,30 @@
+<Groups>
+	<Group>
+		<GroupName>First</GroupName>
+		<Circle>
+			<radius>5.0</radius>
+		</Circle>
+		<Triangle>
+			<aSide>3.0</aSide>
+			<bSide>3.0</bSide>
+			<cSide>3.0</cSide>
+		</Triangle>
+		<Square>
+			<side>4.0</side>
+		</Square>
+	</Group>
+	<Group>
+		<GroupName>Second</GroupName>
+		<Circle>
+			<radius>5.0</radius>
+		</Circle>
+		<Triangle>
+			<aSide>3.0</aSide>
+			<bSide>3.0</bSide>
+			<cSide>3.0</cSide>
+		</Triangle>
+		<Square>
+			<side>4.0</side>
+		</Square>
+	</Group>
+</Groups>
